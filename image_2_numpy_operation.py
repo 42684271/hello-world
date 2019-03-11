@@ -27,8 +27,8 @@ print image.shape
 #image
 
 # show
-plt.imshow(image)
-plt.show()
+#plt.imshow(image)
+#plt.show()
 
 
 # vertical reverse

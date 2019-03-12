@@ -152,3 +152,13 @@ plt.show()
 
 
 
+GIT-CONFIG(1)                                                                                 Git Manual                                                                                 GIT-CONFIG(1)
+
+NAME
+       git-config - Get and set repository or global options
+
+SYNOPSIS
+       git config [<file-option>] [type] [-z|--null] name [value [value_regex]]
+       git config [<file-option>] [type] --add name value
+       git config [<file-option>] [type] --replace-all name value [value_regex]
+       git config [<file-option>] [type] [-z|--null] --get name [value_regex]

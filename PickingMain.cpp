@@ -1,3 +1,4 @@
+
 //
 // OpenSceneGraph Quick Start Guide
 // http://www.lulu.com/content/767629
@@ -241,4 +242,4 @@ main( int argc, char **argv )
     return viewer.run();
 }
 
-// #.....change... should  in master
+// #.....change... remove both should and appear  in master

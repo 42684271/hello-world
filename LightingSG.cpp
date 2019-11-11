@@ -297,6 +297,10 @@ createSceneGraph()
     return root.get();
 }
 // #.....change... should appear in testing2
+<<<<<<< ab1bea7d76c3ea390070b06b646b3703003eaedd
 // make a change..
 // make another change..
 //haha this is done in lidar branch
+=======
+//111111111111111111111111
+>>>>>>> change in LightingSG.cpp

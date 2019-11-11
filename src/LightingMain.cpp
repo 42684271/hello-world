@@ -35,4 +35,3 @@ main( int argc, char** argv )
 
     osg::notify(osg::ALWAYS) << "Successfully wrote \"" << out << "\". Execute \"osgviewer " << out << "\" to view." << endl;
 }
-//)))))))))))))))))))))))))

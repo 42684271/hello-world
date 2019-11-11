@@ -115,12 +115,7 @@ main( int, char ** )
     //   during the update traversal.
     return viewer.run();
 }
-<<<<<<< HEAD
-//LLLLLLLLLL
-=======
 //########################################
 =======
 I am chaning in b1
 
-..................
->>>>>>> b6
